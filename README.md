@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)]
+![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Computer Science Student from Trinity College Dublin</h3>
  
