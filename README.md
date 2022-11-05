@@ -1,6 +1,7 @@
+[![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)]
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Computer Science Student from Trinity College Dublin</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw2vSNQUm24sX-6XEYYOp5ne&ust=1667697597806000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNirqofwlfsCFQAAAAAdAAAAABAF"/>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quincey001&label=Profile%20views&color=0e75b6&style=flat" alt="quincey001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quincey001" alt="quincey001" /></a> </p>
